@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Material.Icons.Avalonia", "Material.Icons.Avalonia\Material.Icons.Avalonia.csproj", "{6FCAB4B3-A6F8-4243-96CD-B9DB32AF6B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Material.Icons.Avalonia.Demo", "Material.Icons.Avalonia.Demo\Material.Icons.Avalonia.Demo.csproj", "{BB8514A2-0293-4340-9C33-486EE9193851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FCAB4B3-A6F8-4243-96CD-B9DB32AF6B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCAB4B3-A6F8-4243-96CD-B9DB32AF6B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCAB4B3-A6F8-4243-96CD-B9DB32AF6B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCAB4B3-A6F8-4243-96CD-B9DB32AF6B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8514A2-0293-4340-9C33-486EE9193851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8514A2-0293-4340-9C33-486EE9193851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8514A2-0293-4340-9C33-486EE9193851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8514A2-0293-4340-9C33-486EE9193851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
