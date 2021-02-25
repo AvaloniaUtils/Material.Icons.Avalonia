@@ -36,8 +36,8 @@ namespace Material.Icons.Avalonia {
             private set => SetAndRaise(DataProperty, ref _data, value);
         }
 
-        protected override void OnTemplateApplied(TemplateAppliedEventArgs e) {
-            base.OnTemplateApplied(e);
+        protected override void OnApplyTemplate(TemplateAppliedEventArgs e) {
+            base.OnApplyTemplate(e);
             UpdateData();
         }
 
