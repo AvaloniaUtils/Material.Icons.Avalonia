@@ -8,7 +8,7 @@ Install [Material.Icons.Avalonia nuget package](https://www.nuget.org/packages/M
 dotnet add package Material.Icons.Avalonia
 ```
 Include styles in `App.xaml`
-```
+```xml
 <Application ...>
   <Application.Styles>
     ...
@@ -19,6 +19,9 @@ Include styles in `App.xaml`
 ### Using
 Use `MaterialIcon` control:
 ```
-<avalonia:MaterialIcon Kind="Abacus"></avalonia:MaterialIcon>
+xmlns:material="using:Material.Icons.Avalonia"
+```
+```xml
+<material:MaterialIcon Kind="Abacus"></material:MaterialIcon>
 ```
 The `Foreground` property controls the color of the icon.
