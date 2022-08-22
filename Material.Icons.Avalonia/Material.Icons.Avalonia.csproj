@@ -12,7 +12,7 @@
         <RepositoryUrl>https://github.com/AvaloniaUtils/Material.Icons.Avalonia.git</RepositoryUrl>
         <RepositoryType>Git</RepositoryType>
         <PackageTags>material icons material-design google-material avalonia</PackageTags>
-        <PackageVersion>1.1.10</PackageVersion>
+        <PackageVersion>1.2.0</PackageVersion>
     </PropertyGroup>
     <ItemGroup>
         <Compile Update="**\*.xaml.cs">
@@ -23,7 +23,7 @@
         </AvaloniaResource>
     </ItemGroup>
     <ItemGroup>
-        <PackageReference Include="Avalonia" Version="0.10.0" />
+        <PackageReference Include="Avalonia" Version="11.0.0-preview1" />
         <PackageReference Include="Material.Icons" Version="1.1.10" />
     </ItemGroup>
 </Project>
