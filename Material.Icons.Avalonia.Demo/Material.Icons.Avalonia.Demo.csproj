@@ -19,7 +19,7 @@
         <PackageReference Include="Avalonia.Desktop" Version="11.0.0-preview1" />
         <PackageReference Include="Avalonia.Diagnostics" Version="11.0.0-preview1" />
         <PackageReference Include="Avalonia.ReactiveUI" Version="11.0.0-preview1" />
-        <PackageReference Include="Avalonia.Themes.Default" Version="0.10.999-cibuild0022654-beta" />
+        <PackageReference Include="Avalonia.Themes.Simple" Version="11.0.0-preview1" />
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\Material.Icons.Avalonia\Material.Icons.Avalonia.csproj" />
