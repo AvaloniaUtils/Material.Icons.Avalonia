@@ -1,3 +1,5 @@
+# Material.Icons.Avalonia moved back to original [Material.Icons](https://github.com/SKProCH/Material.Icons) repository
+
 # Material.Icons.Avalonia
 Avalonia control for display material icons from [Material.Icons](https://github.com/SKProCH/Material.Icons).  
 Icons list can be found on the [materialdesignicons.com](https://materialdesignicons.com/) or in the demo application.
